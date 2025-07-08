@@ -85,7 +85,8 @@ An interactive dashboard (`dashboard.pbix`) was created with:
 - And more...
 
 > The Power BI dashboard enables business users to interactively explore the complaints data and model predictions.
- ![image](https://github.com/user-attachments/assets/e1aa897b-8dbd-4863-9308-ba7f26c5d3fe)
+![image](https://github.com/user-attachments/assets/45dfb277-d2db-4d6c-912b-20f6e77ef038)
+
 ![image](https://github.com/user-attachments/assets/851c4e46-edbf-434c-a05b-2637679d8ac1)
 
 
