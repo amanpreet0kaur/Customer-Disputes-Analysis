@@ -82,8 +82,13 @@ An interactive dashboard (`dashboard.pbix`) was created with:
   `Received → Sent to Company → Timely → Resolved`
 - Age & Gender distributions
 - Top products and issues
+- And more...
 
 > The Power BI dashboard enables business users to interactively explore the complaints data and model predictions.
+ ![image](https://github.com/user-attachments/assets/e1aa897b-8dbd-4863-9308-ba7f26c5d3fe)
+![image](https://github.com/user-attachments/assets/851c4e46-edbf-434c-a05b-2637679d8ac1)
+
+
 
 ---
 
