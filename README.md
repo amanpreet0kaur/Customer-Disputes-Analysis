@@ -65,11 +65,6 @@ Multiple models were trained and evaluated:
 - Decision Tree Classifier
 - Random Forest Classifier
 - K-Nearest Neighbors (KNN)
-- AdaBoost Classifier
-- Gradient Boosting Classifier
-- XGBoost Classifier
-
-
 ---
 
 ##  Power BI Dashboard
